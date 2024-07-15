@@ -1,4 +1,4 @@
-Capstone Project: Evaluating the Impact of Health Information Exchange (HIE) Systems on Care Coordination and Medical Errors in Adult Patients**
+Capstone Project: Evaluating the Impact of Health Information Exchange (HIE) Systems on Care Coordination and Medical Errors in Adult Patients
 
 In this capstone project, I explored the effectiveness of Health Information Exchange (HIE) systems in enhancing care coordination and reducing medical errors among adult patients. The primary objective was to assess how HIE systems facilitate the exchange of patient information between different healthcare providers, thereby improving communication, streamlining care processes, and ultimately enhancing patient outcomes. The project involved a detailed analysis of HIE implementations, examining case studies and evaluating the ways in which these systems contribute to more efficient care coordination and identify potential areas for improvement.
 
