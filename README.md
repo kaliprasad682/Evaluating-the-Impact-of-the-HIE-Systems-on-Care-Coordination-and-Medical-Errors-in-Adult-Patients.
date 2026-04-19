@@ -1,5 +1,20 @@
-Capstone Project: Evaluating the Impact of Health Information Exchange (HIE) Systems on Care Coordination and Medical Errors in Adult Patients
+# Evaluating the Impact of HIE Systems on Care Coordination and Medical Errors
 
-In this capstone project, I explored the effectiveness of Health Information Exchange (HIE) systems in enhancing care coordination and reducing medical errors among adult patients. The primary objective was to assess how HIE systems facilitate the exchange of patient information between different healthcare providers, thereby improving communication, streamlining care processes, and ultimately enhancing patient outcomes. The project involved a detailed analysis of HIE implementations, examining case studies and evaluating the ways in which these systems contribute to more efficient care coordination and identify potential areas for improvement.
+## Overview
+Investigated how Health Information Exchange (HIE) systems influence care coordination and reduce medical errors in adult patients.
 
-A significant focus of the project was to measure the impact of HIE systems on the reduction of medical errors. I conducted a thorough review of data related to error rates before and after the introduction of HIE systems, analyzing how improved access to accurate, up-to-date patient information affects diagnosis accuracy, treatment planning, and patient safety. Through this evaluation, the project aimed to uncover the benefits and limitations of HIE systems in preventing errors and ensuring that patients receive high-quality care. The findings provided valuable insights into how HIE systems can be optimized for better healthcare delivery, offering recommendations for future implementations and improvements in care coordination strategies.
+## Objectives
+- Review evidence on HIE adoption and its clinical outcomes
+- Analyze impact on care coordination efficiency
+- Assess reduction in medical errors through information sharing
+
+## Tools & Skills Used
+- Systematic literature review
+- Health informatics research methodology
+- Evidence synthesis and academic writing
+
+## Key Findings
+Found that effective HIE implementation significantly improves care coordination and reduces medication errors among adult patient populations.
+
+## Author
+Kaliprasad | MS Health Informatics
